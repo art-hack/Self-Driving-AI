@@ -17,4 +17,5 @@ Furthermore, from the extracted image we had to find the edges, so we implemente
 
 We do not need all the frame so in order to remove the sky and unnecessary parts, we took out only the below half in shape of a trapezium like in this image.
 ## Region of Interest
+![Region](Captures/roi.png)
 ![Edge Detection](Captures/3_region_of_interest.gif)
