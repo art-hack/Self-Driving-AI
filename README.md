@@ -57,7 +57,7 @@ We have also implemented a system that can look inside the car using a dashboard
 ***
 
 ### Instructions to run1
-Install all the required packages, beforehand
+Install all the required packages beforehand, then you will be able to execute all the functionalities.
 
 To run the car driving code
 ```
