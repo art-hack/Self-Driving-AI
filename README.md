@@ -43,5 +43,12 @@ Now inorder to control car in a suitable way, we can use a Haar Classifier to de
 
 ## Final Rundown and result
 Now with all this data we can either run the code with trivial algorithm, or use a machine learning to transform and export the data to a csv which can be further used to control the car in a better way. This gif shows the car being controlled by our program.<br>
-<em>Control code will be uploaded soon</em>
+<em>ML Control code will be uploaded soon</em>
 ![Final Run](Captures/final.gif)
+
+
+***
+
+## Indoor Drowsiness Detection
+We have also implemented a system that can look inside the car using a dashboard camera and can determine if the driver is attentive enough or if he/she is feeling sleepy then it can tell the driver to be more attentive then what he actually is right now.
+![Drowsy Attention](Captures/drowsy_edit_0.gif)
