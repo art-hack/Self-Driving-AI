@@ -56,21 +56,21 @@ We have also implemented a system that can look inside the car using a dashboard
 
 ***
 
-### Instructions to run1
+### Instructions to run
 Install all the required packages beforehand, then you will be able to execute all the functionalities.
 
-To run the car driving code
+- To run the car driving code
 ```
 Install Grid Autosport and run a race in 800 * 600 with the game frame in the top left corner of the screen
 Run the command - python hough.py.
 ```
 
-To see the Car detection in action, use:
+- To see the Car detection in action, use:
 ```
 python car_detect.py
 ```
 
-To make the drownsiness detector work, use command:
+- To make the drownsiness detector work, use command:
 ```
 python drowsiness detection.py	--shape-predictor 68_face_landmarks.dat --alarm alarm.wav
 ```
