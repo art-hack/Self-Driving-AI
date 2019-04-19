@@ -52,3 +52,25 @@ Now with all this data we can either run the code with trivial algorithm, or use
 ## Indoor Drowsiness Detection
 We have also implemented a system that can look inside the car using a dashboard camera and can determine if the driver is attentive enough or if he/she is feeling sleepy then it can tell the driver to be more attentive then what he actually is right now.
 ![Drowsy Attention](Captures/drowsy_edit_0.gif)
+
+
+***
+
+### Instructions to run1
+Install all the required packages, beforehand
+
+To run the car driving code
+```
+Install Grid Autosport and run a race in 800 * 600 with the game frame in the top left corner of the screen
+Run the command - python hough.py.
+```
+
+To see the Car detection in action, use:
+```
+python car_detect.py
+```
+
+To make the drownsiness detector work, use command:
+```
+python drowsiness detection.py	--shape-predictor 68_face_landmarks.dat --alarm alarm.wav
+```
