@@ -1,5 +1,5 @@
 # Self-Driving-AI
-A trial at creating a automated self driving bot for GRID Autosport
+A trial at creating a automated self driving bot for GRID Autosport. Major focus was on implementing image processing techniques.
 
 We started by Capturing the original frames from the game itself:
 ## Image Capture
